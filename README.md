@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FABF72&width=435&lines=Crafting+code+with+purpose+and+passion.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FABF72&width=435&lines=Crafting+code+with+passion.)](https://git.io/typing-svg)
 
 ![header](./img/banner2.png)
 
